@@ -10,7 +10,7 @@ Random forest models were trained separately for urban and rural data zones to i
 Building on the findings from GWR and random forest analysis, a modified SIMD is proposed that applies differentiated domain weights for urban and rural areas, reflecting the differing ways in which deprivation is experienced and driven across settlement types.
 ## Data
 Scottish Index of Multiple Deprivation (SIMD).
-Data zone boundaries. 
-Urban/Rural Classification [Scottish Government Urban Rural Classification](https://www.gov.scot/publications/scottish-government-urban-rural-classification-2022/).
+Data zone boundaries (https://www.data.gov.uk/dataset/afe1aca6-bea2-4283-8847-eecf98ab41a4/data-zone-boundaries-2022). 
+Urban/Rural Classification (https://www.gov.scot/publications/scottish-government-urban-rural-classification-2022/).
 ## Author
 Developed as part of an MSc course at the University of Edinburgh.
